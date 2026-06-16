@@ -10,28 +10,28 @@
 ### 1. Backend Setup
 
 Open a terminal and navigate to the backend directory:
-\`\`\`bash
+```bash
 cd backend
 npm install
-\`\`\`
+```
 
 Start the development server (runs on port 5000):
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 ### 2. Frontend Setup
 
 Open a new terminal window and navigate to the frontend directory:
-\`\`\`bash
+```bash
 cd frontend
 npm install
-\`\`\`
+```
 
 Start the React development server (typically runs on port 3000):
-\`\`\`bash
+```bash
 npm start
-\`\`\`
+```
 
 ## Health Check
 
